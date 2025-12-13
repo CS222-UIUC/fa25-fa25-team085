@@ -185,7 +185,7 @@ cd fa25-fa25-team085
 
 ### Anya Kapoor
 **Role**: Backend Developer  
-**Responsibilities** (based on commit history):
+**Responsibilities**:
 - Designed and implemented complete database schema with PostgreSQL migrations
 - Built comprehensive backend framework with authentication, study sessions, and task management services
 - Created Supabase integration layer with TypeScript
@@ -197,7 +197,7 @@ cd fa25-fa25-team085
 
 ### Matthew Ju
 **Role**: Frontend Developer  
-**Responsibilities** (based on commit history):
+**Responsibilities**:
 - Implemented complete frontend UI/UX (Dashboard and Study page layout)
 - Created all major frontend components: Calendar, DateFilter, NavBar, Plate, AIFeedback, ErrorBoundary, ProtectedRoute
 - Built all application pages: Dashboard, Study, Login, Signup
@@ -208,7 +208,7 @@ cd fa25-fa25-team085
 
 ### Hyunwoo Jee
 **Role**: Frontend Developer  
-**Responsibilities** (based on commit history):
+**Responsibilities**:
 - Initial frontend project setup (created LIT-FrontEnd directory structure)
 - Updated Supabase client integration (`src/lib/supabase.ts`)
 - Worked on dashboard integration and Supabase connectivity
