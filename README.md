@@ -225,3 +225,11 @@ cd fa25-fa25-team085
 ## License
 
 This project is part of CS222 coursework at UIUC.
+
+---
+
+## AI Assistance Disclaimer
+- AI tools were used to generate commit messages and descriptive comments.
+- AI assistance was used to help debug issues and draft tests.
+- AI was used to draft backend schemas based on our design requirements.
+- AI was used to generate certain markdown documentation files (e.g., integration/setup summaries) derived from the existing codebase.
